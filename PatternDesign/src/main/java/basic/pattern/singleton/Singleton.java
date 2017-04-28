@@ -6,6 +6,10 @@ package basic.pattern.singleton;
 public class Singleton {
 
 /*
+    静态内部类方式
+*/
+
+/*
     私有的构造方法
 */
     private Singleton(){
